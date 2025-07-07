@@ -1,4 +1,5 @@
 Computational Pipeline for Linking Phenotypes to Cell Types  
+________________________________________
 This repository contains the complete computational pipeline developed to identify and analyze associations between human disease phenotypes and specific brain cell types using single-nucleus RNA-sequencing data.   
 The workflow begins by processing the transcriptomic data to quantify the expression of phenotype-associated gene sets for each of nearly four million cells. Subsequent scripts perform a robust statistical analysis to generate phenotype-cell group associations, run quality control analyses to determine reliable data thresholds, and finally, produce a suite of visualizations and validation reports to interpret the findings.  
 The sections below provide detailed instructions for each script in the pipeline  
